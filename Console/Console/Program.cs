@@ -12,7 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello World");
 
-            for(int i=1; i < 6; i++)
+            for(int i=1; i < 51; i++)
             {
                 Console.WriteLine(i);
             }
