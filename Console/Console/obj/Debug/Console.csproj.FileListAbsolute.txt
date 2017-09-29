@@ -1,0 +1,2 @@
+C:\Users\igxtraining\ConsoleApp\Console\Console\bin\Debug\Console.exe.config
+C:\Users\igxtraining\ConsoleApp\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
